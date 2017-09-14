@@ -1169,11 +1169,11 @@
   )
 
   (module mod:peapod (layer F.Cu) (tedit 0) (tstamp 59C24050)
-    (at 83.75 85.75 270)
-    (fp_text reference G*** (at 0 0 270) (layer F.SilkS) hide
+    (at 109.75 76.75)
+    (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0 270) (layer F.SilkS) hide
+    (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
     (fp_poly (pts (xy 2.631429 -3.48217) (xy 2.933266 -3.444504) (xy 3.173565 -3.369492) (xy 3.384461 -3.247123)
@@ -1313,7 +1313,7 @@
   )
 
   (module mod:fsoss (layer F.Cu) (tedit 0) (tstamp 59C24052)
-    (at 90.25 87 270)
+    (at 101.25 86.75 270)
     (fp_text reference G*** (at 0 0 270) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
     )
