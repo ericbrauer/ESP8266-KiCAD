@@ -1448,11 +1448,11 @@
       (xy 0.005871 -0.739191) (xy 0.006395 -0.740741) (xy 0.006479 -0.740964) (xy 0.006894 -0.740455)) (layer F.SilkS) (width 0.01))
   )
 
-  (module Mounting_Holes:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 59BD6EB2)
+  (module Mounting_Holes:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 59BD6E3A) (tstamp 59BD6EB2)
     (at 165.25 74.5)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
-    (fp_text reference REF** (at 0 -3.2) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -3.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_2.2mm_M2 (at 0 3.2) (layer F.Fab)
